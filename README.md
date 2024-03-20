@@ -2,9 +2,16 @@
 
 Flutter 03d package.
 
+
+
+https://github.com/Maliud/animated_model_3d_flutter/assets/72108306/9110c156-52bd-44f1-abcf-dd17aaa20e3f
+
+
+
 ## Support
 
 For support, Email: m.aliud@outlook.com
+
 
 
 ## 🔗 Links
